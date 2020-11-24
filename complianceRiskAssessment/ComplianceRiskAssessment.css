@@ -1,0 +1,24 @@
+input {
+  background-color: rgb(242, 248, 248) !important;
+}
+
+textarea {
+  background-color: rgb(242, 248, 248) !important;
+}
+
+select.list1 option {
+  background-color: rgb(242, 248, 248) !important;
+}
+
+Tab:focus {
+  outline: 0 !important;
+  border: 0 !important;
+}
+
+TabPanel {
+  border-top: 2px solid black !important;
+}
+
+.mandatory {
+  border-right: 6px solid rgb(124, 124, 235) !important;
+}
